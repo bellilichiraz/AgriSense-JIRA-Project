@@ -3,3 +3,6 @@ agricoles (type de culture, état du sol, climat local, etc.)
 pour améliorer leurs rendements, optimiser l'utilisation des ressources et minimiser les risques. 
 Dans ce cas, une application ou une plateforme pourrait offrir des recommandations sur mesure 
 basées sur des données spécifiques à chaque exploitation agricole.
+            Dans Ce Fichier on Va :
+                1-Configurer les paramètres des drones pour collecter des images de haute précision.
+                2-Créer un algorithme capable de détecter les zones de stress hydrique ou d'infestations.
