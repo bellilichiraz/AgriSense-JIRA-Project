@@ -4,5 +4,9 @@ pour améliorer leurs rendements, optimiser l'utilisation des ressources et mini
 Dans ce cas, une application ou une plateforme pourrait offrir des recommandations sur mesure 
 basées sur des données spécifiques à chaque exploitation agricole.
             Dans Ce Fichier on Va :
-                1-Configurer les paramètres des drones pour collecter des images de haute précision.
-                2-Créer un algorithme capable de détecter les zones de stress hydrique ou d'infestations.
+                1-Concevoir une interface utilisateur pour la plateforme 
+                càd Créer un tableau de bord clair et intuitif pour les données.
+                2-Intégrer les données des capteurs et des drones à la plateforme 
+                càd Connecter les différentes sources de données pour qu'elles s'affichent 
+                sur la plateforme.
+                3-Créer un algorithme capable de détecter les zones de stress hydrique ou d'infestations.
